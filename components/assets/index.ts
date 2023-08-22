@@ -1,0 +1,1 @@
+export {default as PreLoader} from "./Images/Preloader.gif"
